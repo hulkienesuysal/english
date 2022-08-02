@@ -1,4 +1,7 @@
 ## Prepositions
+
+`Linker`+`Noun`
+
 **Linkers**              |        
 -------------       | 
 Because of          | 
@@ -12,6 +15,10 @@ As a consequence of |
 * _They had an accident <ins>because of</ins> the slippery road._
 
 ## Subordinating conjunctions
+
+`Linker` + `Subject+Verb`, `Subject+Verb` <br>
+`Subject+Verb` + `Linker` + `Subject+Verb`
+
 **Linkers**      |  
 ----------  | 
 Because     | 
@@ -23,6 +30,10 @@ As          |
 * _She stayed home <ins>as</ins> it was too cold outside._
 
 ## Transitions
+
+`Subject+Verb`; `Linker`, `Subject+Verb` <br>
+`Subject+Verb`. `Linker`, `Subject+Verb`
+
 **Linkers**          |  
 ----------      |
 As a result     |
