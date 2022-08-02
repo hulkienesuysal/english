@@ -18,5 +18,5 @@ In addition, forests are important for our health as they help to supply us with
 
 #### Conclusion
 `To conclude, human activity is clearly causing the climate to change and, as a result, the planet is experiencing a number of negative effects.` 
-It is important that we reduce our negative impact on the planet as much as possiblefor example, 
+It is important that we reduce our negative impact on the planet as much as possible for example, 
 by using renewable energy instead of fossil fuels- before it is too late.
