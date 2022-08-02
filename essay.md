@@ -38,4 +38,4 @@ In my opinion, Students and parents can choose whatever they want on condition t
 
 > Each body paragraph should contain Topic sentence, Sort information, Advantages, Disadvantages
 
-> Conclusion paragraph may contain Your opinion, Suggestion, Solution.
+> Conclusion paragraph should contain Your opinion, Suggestion, Solution.
