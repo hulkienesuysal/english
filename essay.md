@@ -34,6 +34,8 @@ In my opinion, Students and parents can choose whatever they want on condition t
 
 ---
 
-> Each body should contain Topic sentence - Sort information - Advantages - Disadvantages
+> Introduction must contain General information and Thesis statement.
 
-> Your opinion, suggestion, solution can be specified in conclusion body.
+> Each body should contain Topic sentence, Sort information, Advantages, Disadvantages
+
+> Conclusion body may contain Your opinion, Suggestion, Solution.
