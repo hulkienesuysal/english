@@ -1,27 +1,48 @@
 ## Prepositions
-Linker        |       |   
--------------       | -------------
-Because of          | noun 
-As a result of      | noun 
-Owing to            | noun 
-Due to              | noun 
-As a consequence of | noun 
+**Linkers**              |        
+-------------       | 
+Because of          | 
+As a result of      | 
+Owing to            |
+Due to              | 
+As a consequence of | 
 
 * _He didn’t go to school <ins>due to</ins> his illness._
 * _<ins>Owing to</ins> the rain, we postponed the expedition._
 * _They had an accident <ins>because of</ins> the slippery road._
 
 ## Subordinating conjunctions
-| Linker |  |
-----------                  | -------
-Because                     | sentence 
-Since                       | sentence 
-As                          | sentence 
+**Linkers**      |  
+----------  | 
+Because     | 
+Since       | 
+As          |
 
 * _He was late <ins>because</ins> he missed the bus._
 * _<ins>Since</ins> it was late, he returned home._
 * _She stayed home <ins>as</ins> it was too cold outside._
 
+## Transitions
+**Linkers**          |  
+----------      |
+As a result     |
+Hence           |
+Therefore       |
+Thus            |
+Consequently    |
+For this reason |
+
+* _It rained a lot; <ins>therefore,</ins> they didn’t go to the picnic._
+* _Jack didn’t study for the exam. <ins>Consequently,</ins> he failed._
+
+## Coordinating Conjunctions
+**Linkers**    |  
+----------|
+So        |
+For       |
+
+* _The flood damaged their furniture, <ins>so</ins> they had to buy new furniture._
+* _Susan went to the dentist, <ins>for</ins> she had a toothache._
 
 
 First Header  | Second Header
