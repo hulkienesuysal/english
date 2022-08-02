@@ -11,6 +11,7 @@
 do-does, if do-does
 am-is-are, if am-is-are
 ```
+`do-does,` **if** `do-does`
 <sup>Her iki taraftada geniş zaman kullanılır.</sup>
 
 -If you boil water , it vaporizes.
