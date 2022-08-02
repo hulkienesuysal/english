@@ -3,7 +3,7 @@ Education is very important all over the world. If students want to have a good 
 How can they improve themselves? They can attend the class to learn and improve themselves. 
 `There are many different types of education these days.` `There is traditional education, online education and home-schooling, all of which have advantages and disadvantages.`
 
-#### Body 1
+#### Body 1 
 `The first type of education is online education.` <ins>Traditional education is when children attend classes to study.</ins> 
 _The main advantage is that children are around other children. Early socialization is so important in children’s development. 
 Consequently, If children go to school, they can improve their communication and behavior skills. 
@@ -32,73 +32,8 @@ Therefore, they don’t know everything._
 All of these systems have advantages and disadvantages which should be carefully considered. 
 In my opinion, Students and parents can choose whatever they want on condition that it must be more effective and beneficial for students.
 
+---
 
+> Each body should contain Topic sentence - Sort information - Advantages - Disadvantages
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Introduction
-_~~Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-It has survived not only five centuries, but also the leap into electronic typesetting, 
-remaining essentially unchanged.~~_
-`There are many different systems/types of education these days.`
-`There is traditional education, online education and home-schooling, all of which have advantages and disadvantages.`
-
-#### Body1
-`The first form of education is traditional education.`
-<sup>(Sort_information)</sup> _~~Lorem Ipsum is simply dummy text of the printing and typesetting industry.~~_ 
-`It has several advantages.`
---------------------------(Advantages) !\n 
-However, !\n 
---------------------------(Disadvantages)
-
-Body2
-The second type of education is online education. !\n 
---------------------------(Sort information) !\n
-The main advantage is that students don't have to prepare to go to school. !\n 
---------------------------(Advantages) !\n 
-However, !\n 
---------------------------(Disadvantages)
-
-Body3
-The final system of education is home-schooling. !\n
---------------------------(Sort information) !\n
-It is pretty effective for some students !\n 
---------------------------(Advantages) !\n 
-However, !\n 
---------------------------(Disadvantages)
-
-Conclusion
-In conclusion, !\n
-traditional education, online education and home-schooling are types of education. All of  these systems have advantages and disadvantages which should be carefully considered. !\n
---------------------------(Advice, opinion) 
+> Your opinion, suggestion, solution can be specified in conclusion body.
