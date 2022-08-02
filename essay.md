@@ -34,8 +34,8 @@ In my opinion, Students and parents can choose whatever they want on condition t
 
 ---
 
-> Introduction must contain General information and Thesis statement.
+> Introduction paragraph must contain General information and Thesis statement.
 
-> Each body should contain Topic sentence, Sort information, Advantages, Disadvantages
+> Each body paragraph should contain Topic sentence, Sort information, Advantages, Disadvantages
 
-> Conclusion body may contain Your opinion, Suggestion, Solution.
+> Conclusion paragraph may contain Your opinion, Suggestion, Solution.
