@@ -1,4 +1,4 @@
-# CONDITIONALS (IF) (Koşul, Şart)
+# CONDITIONALS
 
 ***"If" kendisinden sonra gelen cümleye anlam katar.***
 
