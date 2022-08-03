@@ -57,20 +57,3 @@ For       |
 
 * _The flood damaged their furniture, <ins>so</ins> they had to buy new furniture._
 * _Susan went to the dentist, <ins>for</ins> she had a toothache._
-
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-`Because of `+`noun` <br>
-`As a result of`+`noun` <br>
-`Owing to`+`noun` <br>
-`Due to`+`noun` <br>
-`As a consequence of`+`noun` <br>
