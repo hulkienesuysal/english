@@ -55,6 +55,12 @@ Although|
 Despite the fact that|
 In spite of the fact that|
 
+`Phrase`+`Sentence`
+Phrases|
+----|
+Other people claim that|
+Opposing views claim that|
+
 
 ## Prepositions
 
