@@ -88,11 +88,15 @@ For instance|
 For example|
 To illustrate|
 
+* He does sports regularly. <ins>For example,</ins> he goes running twice a week.
+
 `Sentence`, `Transitional Signal`+`Noun`
 Transitional Signals|
 ----|
 Such as|
 Like|
+
+* I like sparts <ins>such as</ins> bsketball and football.
 
 ## Prepositions
 
