@@ -42,6 +42,20 @@ number of negative effects. It is important that we reduce our negative impact o
 * <ins>In summary,</ins> there are a number of acouse and effects of obesity. I believe, everyone has a responsibility to balance their weight, especially when people get older. People need to find ways to tackle this problem and find solutions for it.
 
 
+## Opposing views
+
+`Concession`+`Sentence`
+Concessions|
+----|
+However,|
+Nevertheless,|
+Nonetheless,|
+Even though|
+Although|
+Despite the fact that|
+In spite of the fact that|
+
+
 ## Prepositions
 
 `Linker`+`Noun`
