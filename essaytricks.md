@@ -16,8 +16,8 @@ As a consequence of |
 
 ## Subordinating conjunctions
 
-`Linker` + `Subject+Verb`, `Subject+Verb` <br>
-`Subject+Verb` + `Linker` + `Subject+Verb`
+`Linker`+`Sentence`, `Sentence` <br>
+`Sentence`+`Linker`+`Sentence`
 
 **Linkers**      |  
 ----------  | 
@@ -31,8 +31,8 @@ As          |
 
 ## Transitions
 
-`Subject+Verb`; `Linker`, `Subject+Verb` <br>
-`Subject+Verb`. `Linker`, `Subject+Verb`
+`Sentence`; `Linker`, `Sentence` <br>
+`Sentence`. `Linker`, `Sentence`
 
 **Linkers**          |  
 ----------      |
@@ -47,6 +47,9 @@ For this reason |
 * _Jack didn’t study for the exam. <ins>Consequently,</ins> he failed._
 
 ## Coordinating Conjunctions
+
+`Sentence`, `Linker`+`Sentence`
+
 **Linkers**    |  
 ----------|
 So        |
