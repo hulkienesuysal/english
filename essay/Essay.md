@@ -44,7 +44,8 @@ number of negative effects. It is important that we reduce our negative impact o
 
 ## Opposing views
 
-`Concession`+`Sentence`
+`Sentence`. `Concession`+`Sentence`
+`Concession`+`Sentence`, `Sentence`
 Concessions|
 ----|
 However,|
