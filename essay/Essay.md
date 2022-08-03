@@ -61,6 +61,14 @@ In spite of the fact that|
 * _<ins>Despite the fact that</ins> doctors say it is not healthy to eat butter, many dieticians recommend eating it._
 * _<ins>In spite of the fact that</ins> many people have seen UFOs, scientists still say that they do not exist._
 
+`Concession`+`Noun`
+Concessions|
+----|
+Despite|
+In spite of|
+
+* _<ins>Despite</ins> the improvements in the healthcare system, it is still difficult to get an appointment from doctors._
+* _<ins>In spite of</ins> being prepared under unhealthy conditions, people still eat kokoreç._
 
 
 `Phrase`+`Sentence`
