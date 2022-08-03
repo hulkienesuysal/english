@@ -3,6 +3,20 @@
 ### Inroduction
 <img src="https://user-images.githubusercontent.com/74737994/182592845-2b64bb42-0276-49bb-827b-1d959e67e142.png" width="450">
 
+**Inroduction paragraph can start with these:**
+* Question ?
+* General to specific
+* Definition
+* Past x Present
+
+
+**Examples:**
+* _Are you feeling stressed ?_
+* _Many people today feel stressed._
+* _Stress can be defined as negative tension._
+
+---
+
 ### Conclusion
 <img src="https://user-images.githubusercontent.com/74737994/182592967-4122235c-f7fb-418f-b0c8-9e8e049f6f77.png" width="450">
 
