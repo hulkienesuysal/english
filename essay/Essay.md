@@ -12,7 +12,9 @@
 
 **Examples:**
 * **Definition:** _Stress is the reaction of our bodies to a threat. It can be positive or negative. Stress can affect us badly id it is negative. <ins> There are 3 causes of stress: 1, 2 and 3.</ins>_
-* Are you feeling stressed? Many people say that they suffer from stress these days. It is a huge problem. <ins>There are 3 caouses of stress: 1, 2 and 3.</ins>
+* **Question:** Are you feeling stressed? Many people say that they suffer from stress these days. It is a huge problem. <ins>There are 3 causes of stress: 1, 2 and 3.</ins>
+* **General to specific:** Nowadays, many people suffer from stress. It's a common problem. Stress can lead to many problems if it is too much. <ins>There are several causes of stress: 1, 2 and 3.</ins>
+* **Past x Present:** In the past, people used to experience less stress. However, now they are experiencing more stress with the changing working conditions. <ins>There are a number of causes of stress: 1, 2 and 3.</ins>
 
 ---
 
