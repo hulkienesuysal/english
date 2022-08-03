@@ -21,12 +21,17 @@
 ### Conclusion
 <img src="https://user-images.githubusercontent.com/74737994/182592967-4122235c-f7fb-418f-b0c8-9e8e049f6f77.png" width="450">
     
-Conclusion paragraph can start with these:
- 
+**Conclusion paragraph can start with these:**
 * In conclusion, 
 * To sum up,     
 * To conclude,   
 * In summary,
+
+**Opinion can start with these:**
+* I believe,
+* In my opinion,
+* It seems to me,
+* From my point of view,
 
 **Examples:**
 * <ins>In coclusion,</ins> _stress has some important causes. These can be physical or psychological. There is stress in every
@@ -34,7 +39,7 @@ aspect of our lives. In my opinion, stress is not so bad as long as it does not 
 * <ins>To sum up,</ins> there are different opinions whether it is a good idea for teenagers to help their parents at home or not. From my point of view, housework should be shared. This way, there could be more quality time to spend together with the family. 
 * <ins>To conclude,</ins> _human activity is clearly causing the climate to change and, as a result, the planet is experiencing a
 number of negative effects. It is important that we reduce our negative impact on the planet as much as possiblefor example, by using renewable energy instead of fossil fuels- before it is too late._
-* <ins>In summary,</ins> there are a number of acouse and effects of obesity. In my opinion, everyone has a responsibility to balance their weight, especially when people get older. People need to find ways to tackle this problem and find solutions for it.
+* <ins>In summary,</ins> there are a number of acouse and effects of obesity. I believe, everyone has a responsibility to balance their weight, especially when people get older. People need to find ways to tackle this problem and find solutions for it.
 
 
 ## Prepositions
