@@ -28,6 +28,13 @@ Conclusion paragraph can start with these:
 * To conclude,   
 * In summary,
 
+**Examples:**
+* <ins>To conclude,</ins> _human activity is clearly causing the climate to change and, as a result, the planet is experiencing a
+number of negative effects. It is important that we reduce our negative impact on the planet as much as possiblefor example, by using renewable energy instead of fossil fuels- before it is too late._
+
+* <ins>In coclusion,</ins> _stress has some important causes. These can be physical or psychological. There is stress in every
+aspect of our lives. In my opinion, stress is not so bad as long as it does not affect your life negatively._
+
 
 ## Prepositions
 
