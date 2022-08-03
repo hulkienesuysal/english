@@ -55,12 +55,22 @@ Although|
 Despite the fact that|
 In spite of the fact that|
 
+* _Teenagers are warned not to text and drive. <ins>Neverthless,</ins> they still use their phones while driving._
+* _<ins>Even though</ins> alternative medicine can be effective, there is no research that proves this._
+* _Conventional medicine is effective <ins>although</ins> it has some side effects._
+* _<ins>Despite the fact that</ins> doctors say it is not healthy to eat butter, many dieticians recommend eating it._
+* _<ins>In spite of the fact that</ins> many people have seen UFOs, scientists still say that they do not exist._
+
+
+
 `Phrase`+`Sentence`
 Phrases|
 ----|
 Other people claim that|
 Opposing views claim that|
 
+* _Istanbul is a very beautiful city. <ins>Other people claim that</ins> it is too crowded._
+* _<ins>Opposing views claim that</ins> absenteeism should not be compulsory._
 
 ## Prepositions
 
