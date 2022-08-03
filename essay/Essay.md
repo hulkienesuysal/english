@@ -20,14 +20,20 @@
 
 ### Conclusion
 <img src="https://user-images.githubusercontent.com/74737994/182592967-4122235c-f7fb-418f-b0c8-9e8e049f6f77.png" width="450">
-
+    
+Conclusion paragraph can start with these:
+ 
+* In conclusion, 
+* To sum up,     
+* To conclude,   
+* In summary,
 
 
 ## Prepositions
 
 `Linker`+`Noun`
 
-**Linkers**              |        
+**Linkers**         |        
 -------------       | 
 Because of          | 
 As a result of      | 
