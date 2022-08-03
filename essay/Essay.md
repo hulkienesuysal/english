@@ -11,9 +11,8 @@
 
 
 **Examples:**
-* _Are you feeling stressed ?_
-* _Many people today feel stressed._
-* _Stress can be defined as negative tension._
+* **Definition:** _Stress is the reaction of our bodies to a threat. It can be positive or negative. Stress can affect us badly id it is negative. <ins> There are 3 causes of stress: 1, 2 and 3.</ins>_
+* Are you feeling stressed? Many people say that they suffer from stress these days. It is a huge problem. <ins>There are 3 caouses of stress: 1, 2 and 3.</ins>
 
 ---
 
