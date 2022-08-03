@@ -96,10 +96,24 @@ Transitional Signals|
 Such as|
 Like|
 
-* I like sparts <ins>such as</ins> bsketball and football.
+* I like sparts <ins>such as</ins> basketball and football.
+
+## Adding additional information
+
+`#`+`Sentence`
+ #|        
+--------| 
+Also,|
+Moreover,|
+In addition,|
+Furthermore,|
+As well as + noun;|
+
+* <ins>Moreover,</ins> people go to the gym to lose weight.
+* <ins>As well as</ins> technology; financial and enviranmental factors are also important in the construction of skyscrapers.
+
 
 ## Prepositions
-
 `Linker`+`Noun`
 
 **Linkers**         |        
