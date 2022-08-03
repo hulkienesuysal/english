@@ -61,7 +61,7 @@ In spite of the fact that|
 * _<ins>Despite the fact that</ins> doctors say it is not healthy to eat butter, many dieticians recommend eating it._
 * _<ins>In spite of the fact that</ins> many people have seen UFOs, scientists still say that they do not exist._
 
-`Concession`+`Noun`
+`Concession`+`Noun` <br>
 Concessions|
 ----|
 Despite|
@@ -69,7 +69,6 @@ In spite of|
 
 * _<ins>Despite</ins> the improvements in the healthcare system, it is still difficult to get an appointment from doctors._
 * _<ins>In spite of</ins> being prepared under unhealthy conditions, people still eat kokoreç._
-
 
 `Phrase`+`Sentence`
 Phrases|
@@ -79,6 +78,21 @@ Opposing views claim that|
 
 * _Istanbul is a very beautiful city. <ins>Other people claim that</ins> it is too crowded._
 * _<ins>Opposing views claim that</ins> absenteeism should not be compulsory._
+
+## Transitional Signals with Examples
+
+`Sentence`. `Transitional Signal`, `Sentence`
+Transitional Signals|
+----|
+For instance|
+For example|
+To illustrate|
+
+`Sentence`, `Transitional Signal`+`Noun`
+Transitional Signals|
+----|
+Such as|
+Like|
 
 ## Prepositions
 
