@@ -42,7 +42,7 @@ number of negative effects. It is important that we reduce our negative impact o
 * <ins>In summary,</ins> there are a number of acouse and effects of obesity. I believe, everyone has a responsibility to balance their weight, especially when people get older. People need to find ways to tackle this problem and find solutions for it.
 
 
-## Opposing views
+## Opposing Views
 
 `Linker`+`Sentence`
 **Linkers**|
@@ -98,7 +98,7 @@ Like|
 
 * I like sparts <ins>such as</ins> basketball and football.
 
-## Adding additional information
+## Adding Additional Information
 
 `Linker`+`Sentence`
 **Linkers**|        
@@ -128,7 +128,7 @@ As a consequence of |
 * _<ins>Owing to</ins> the rain, we postponed the expedition._
 * _They had an accident <ins>because of</ins> the slippery road._
 
-## Subordinating conjunctions
+## Subordinating Conjunctions
 
 `Linker`+`Sentence`, `Sentence` <br>
 `Sentence`+`Linker`+`Sentence`
