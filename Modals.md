@@ -19,9 +19,19 @@
 
 ## May
 * **Permission**: _<ins>May</ins> I use your phone, please?_
-* **Possibility, Probability**: _It <ins>may</ins> rain tomorrow!_
+* **Possibility/Probability**: _It <ins>may</ins> rain tomorrow!_
 
 ## Might
 * **Polite permission**: _<ins>Might</ins> I suggest an idea?_
-* **Possibility, probability**: _I <ins>might</ins> go on holiday to Australia next year.
+* **Possibility/probability**: _I <ins>might</ins> go on holiday to Australia next year.
 
+## Need not
+* **Lack of necessity/Absence of obligation**: _I <ins>need not</ins> buy tomatoes. There are plenty of tomatoes in the fridge._
+
+## Should / Ought to
+* **50 % obligation**: _I <ins>should</ins> / <ins>ought to</ins> see a doctor. I have a terrible headache._
+* **Advice**: _You <ins>should</ins> / <ins>ought to</ins> revise your lessons._
+* **Logical conclusion**: _He <ins>should</ins> / <ins>ought to</ins> be very tired. He's been working all day long._
+
+## Had better
+* **Advice**: _You<ins>'d better</ins> revise your lessons._
