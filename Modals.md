@@ -22,6 +22,10 @@
 * `Polite permission, request`: _Excuse me, <ins>could</ins> I just say something?_
 * `Possibility`: _It <ins>could</ins> rain tomorrow!_
 
+## Would
+* `Polite request`: _<ins>Would</ins> you close the door?_
+* `Instead of "used to"`: _When we were children, we <ins>would</ins> play tennis every day._ 
+
 ## May
 * `Permission / Request`: _<ins>May</ins> I use your phone, please?_
 * `Possibility / Probability`: _It <ins>may</ins> rain tomorrow!_
