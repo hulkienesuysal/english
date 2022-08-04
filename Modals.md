@@ -41,6 +41,8 @@
 ## Had better
 * `Advice`: _You<ins>'d better</ins> revise your lessons._
 
+<br><hr><br>
+
 ## Advanced Modals
 
 * **I will <ins>be Ving</ins>**: _Yapıyor olacağım._
@@ -59,7 +61,7 @@
 
 <br>
 
-* **He should <ins>be Ving</ins>: _Yapıyor olmalı._ (Beklenti, tahmin)
+* **He should <ins>be Ving</ins>**: _Yapıyor olmalı._ (Beklenti, tahmin)
 * **You should <ins>have V3</ins>**: _Yapmalıydın._
 * **You shouldn't <ins>have V3</ins>**: _Yapmamalıydın._
 
