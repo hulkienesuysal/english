@@ -23,7 +23,7 @@
 
 ## Might
 * `Polite permission`: _<ins>Might</ins> I suggest an idea?_
-* `Possibility / probability`: _I <ins>might</ins> go on holiday to Australia next year.
+* `Possibility / probability`: _I <ins>might</ins> go on holiday to Australia next year._
 
 ## Need not
 * `Lack of necessity / Absence of obligation`: _I <ins>need not</ins> buy tomatoes. There are plenty of tomatoes in the fridge._
