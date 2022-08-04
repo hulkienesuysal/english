@@ -1,15 +1,15 @@
 ## Modals
 
 ## Must	
-* `Strong obligation`: _You <ins>must</ins> stop when the traffic lights turn red._
+* `Strong obligation / Necessity`: _You <ins>must</ins> stop when the traffic lights turn red._
 * `Logical conclusion / Certainty`: 	_He <ins>must</ins> be very tired. He's been working all day long._
 
-## Must not
-* `Prohibition`: _You <ins>must not</ins> smoke in the hospital._
+## Must not / Musn't
+* `Prohibition / Forbidden`: _You <ins>must not</ins> smoke in the hospital._
 
 ## Can
 * `Ability`:	_I <ins>can</ins> swim._
-* `Permission`: _<ins>Can</ins> I use your phone, please?_
+* `Permission / Request`: _<ins>Can</ins> I use your phone, please?_
 * `Possibility`: _Smoking <ins>can</ins> cause cancer._
 
 ## Could
@@ -18,7 +18,7 @@
 * `Possibility`: _It <ins>could</ins> rain tomorrow!_
 
 ## May
-* `Permission`: _<ins>May</ins> I use your phone, please?_
+* `Permission / Request`: _<ins>May</ins> I use your phone, please?_
 * `Possibility / Probability`: _It <ins>may</ins> rain tomorrow!_
 
 ## Might
