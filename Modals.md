@@ -40,3 +40,46 @@
 
 ## Had better
 * `Advice`: _You<ins>'d better</ins> revise your lessons._
+
+## Advanced Modals
+
+* **I will <ins>be Ving</ins>**: _Yapıyor olacağım._
+* **I will <ins>have V3</ins>**: _Yapmış olacağım._ 
+* **I will <ins>have been Ving</ins>**: _Bir süredir yapıyor olacağım._ 
+
+<br>
+
+* **You can't <ins>be Ving</ins>**: _Yapıyor olamazsın._
+* **You can't <ins>have V3</ins>**: _Yapmış olamazsın._
+
+<br>
+
+* **He may <ins>be Ving</ins>**: _Yapıyor olabilir._
+* **He may <ins>have V3</ins>**: _Yapmış olabilir._
+
+<br>
+
+* **He should <ins>be Ving</ins>: _Yapıyor olmalı._ (Beklenti, tahmin)
+* **You should <ins>have V3</ins>**: _Yapmalıydın._
+* **You shouldn't <ins>have V3</ins>**: _Yapmamalıydın._
+
+<br>
+
+* **He must <ins>be Ving</ins>**: _Şu an da böyle oluyor olmalı._ (Çıkarım)
+* **He must <ins>have V3</ins>**: _Şöyle yapmış olmalı._
+
+<br>
+
+* **He could <ins>be Ving</ins>**: _Yapıyor olabilir._ (tahmin)
+* **It could <ins>have V3</ins>**: _Olmuş olabilir, Olabilirdi._
+* **You couldn't <ins>have V3</ins>**: _Yapmış olamazsın._
+
+<br>
+
+* **I would <ins>be Ving</ins>**: _Yapıyor olurdum._
+* **I would <ins>have V3</ins>**: _(Kesin) yapardım._
+
+<br>
+
+* **He might <ins>be Ving</ins>**: _Yapıyor olabilir._
+* **He might <ins>have V3</ins>**: _Yapmış olabilir._ 
