@@ -44,8 +44,8 @@ number of negative effects. It is important that we reduce our negative impact o
 
 ## Opposing views
 
-`Concession`+`Sentence`
-Concessions|
+`Linker`+`Sentence`
+**Linkers**|
 ----|
 However,|
 Nevertheless,|
@@ -61,8 +61,8 @@ In spite of the fact that|
 * _<ins>Despite the fact that</ins> doctors say it is not healthy to eat butter, many dieticians recommend eating it._
 * _<ins>In spite of the fact that</ins> many people have seen UFOs, scientists still say that they do not exist._
 
-`Concession`+`Noun` <br>
-Concessions|
+`Linker`+`Noun` <br>
+**Linkers**|
 ----|
 Despite|
 In spite of|
@@ -71,7 +71,7 @@ In spite of|
 * _<ins>In spite of</ins> being prepared under unhealthy conditions, people still eat kokoreç._
 
 `Phrase`+`Sentence`
-Phrases|
+**Phrases**|
 ----|
 Other people claim that|
 Opposing views claim that|
@@ -81,8 +81,8 @@ Opposing views claim that|
 
 ## Transitional Signals with Examples
 
-`Sentence`. `Transitional Signal`, `Sentence`
-Transitional Signals|
+`Sentence`. `Linker`, `Sentence`
+**Linkers**|
 ----|
 For instance|
 For example|
@@ -90,8 +90,8 @@ To illustrate|
 
 * He does sports regularly. <ins>For example,</ins> he goes running twice a week.
 
-`Sentence`, `Transitional Signal`+`Noun`
-Transitional Signals|
+`Sentence`, `Linker`+`Noun`
+**Linkers**|
 ----|
 Such as|
 Like|
@@ -100,8 +100,8 @@ Like|
 
 ## Adding additional information
 
-`#`+`Sentence`
- #|        
+`Linker`+`Sentence`
+**Linkers**|        
 --------| 
 Also,|
 Moreover,|
@@ -114,8 +114,8 @@ As well as + noun;|
 
 
 ## Prepositions
-`Linker`+`Noun`
 
+`Linker`+`Noun`
 **Linkers**         |        
 -------------       | 
 Because of          | 
